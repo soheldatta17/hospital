@@ -40,7 +40,7 @@ export default function Home() {
                 <Link href="/assessment">Start Assessment</Link>
               </Button>
               <Button asChild size="lg" variant="outline">
-                <Link href="/find-help">Find Help</Link>
+                <Link href="/professionals">Find Help</Link>
               </Button>
             </div>
           </motion.div>
